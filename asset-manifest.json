@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactDemo/static/css/main.66132540.chunk.css",
+    "main.js": "/ReactDemo/static/js/main.6a10d757.chunk.js",
+    "main.js.map": "/ReactDemo/static/js/main.6a10d757.chunk.js.map",
+    "runtime-main.js": "/ReactDemo/static/js/runtime-main.c2d2f420.js",
+    "runtime-main.js.map": "/ReactDemo/static/js/runtime-main.c2d2f420.js.map",
+    "static/css/2.e9e1f360.chunk.css": "/ReactDemo/static/css/2.e9e1f360.chunk.css",
+    "static/js/2.8a13ced0.chunk.js": "/ReactDemo/static/js/2.8a13ced0.chunk.js",
+    "static/js/2.8a13ced0.chunk.js.map": "/ReactDemo/static/js/2.8a13ced0.chunk.js.map",
+    "index.html": "/ReactDemo/index.html",
+    "precache-manifest.424d240006e7a9ddd6a64f6b6b9a1c21.js": "/ReactDemo/precache-manifest.424d240006e7a9ddd6a64f6b6b9a1c21.js",
+    "service-worker.js": "/ReactDemo/service-worker.js",
+    "static/css/2.e9e1f360.chunk.css.map": "/ReactDemo/static/css/2.e9e1f360.chunk.css.map",
+    "static/css/main.66132540.chunk.css.map": "/ReactDemo/static/css/main.66132540.chunk.css.map",
+    "static/js/2.8a13ced0.chunk.js.LICENSE.txt": "/ReactDemo/static/js/2.8a13ced0.chunk.js.LICENSE.txt",
+    "static/media/smart.default.css": "/ReactDemo/static/media/smart-icons.8c3af8d9.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d2f420.js",
+    "static/css/2.e9e1f360.chunk.css",
+    "static/js/2.8a13ced0.chunk.js",
+    "static/css/main.66132540.chunk.css",
+    "static/js/main.6a10d757.chunk.js"
+  ]
+}
